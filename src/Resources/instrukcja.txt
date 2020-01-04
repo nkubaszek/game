@@ -1,0 +1,7 @@
+Instrukcja
+
+Twoim zadaniem jest skakanie po platformach i zbieranie odpadów.
+Za zebranie plastiku zdobędziesz 25pkt, za zebranie szkła 20 pkt,
+papieru 15 pkt, a odpadu bio 10 pkt.
+Uważaj, żebyś nie wpadł do wody, wtedy gra się kończy.
+Po zakończeniu gry możesz zapisać swój wynik w sekcji wyniki.

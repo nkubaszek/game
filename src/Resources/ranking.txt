@@ -1,0 +1,9 @@
+nick wynik
+
+NK    4
+NK    40
+NK    40
+NK    40
+NK    70
+NK    70
+NK    70
